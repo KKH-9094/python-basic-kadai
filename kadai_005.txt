@@ -1,1 +1,7 @@
+upper = 10
+under = 20
+height = 5
 
+area = (upper + under)* height / 2
+
+print(str(area)+"cm")
